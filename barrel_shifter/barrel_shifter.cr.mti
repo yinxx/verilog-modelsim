@@ -1,0 +1,15 @@
+{D:/Electronics Engineering/Verilog/ModelSim/barrel_shifter/barrel_shifter.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/barrel_shifter/barrel_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter
+
+Top level modules:
+	barrel_shifter
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/barrel_shifter/barrel_shifter_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/barrel_shifter/barrel_shifter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter_tb
+
+Top level modules:
+	barrel_shifter_tb
+
+} {} {}}

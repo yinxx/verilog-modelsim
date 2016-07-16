@@ -1,0 +1,43 @@
+{D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/reverse_bit.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/reverse_bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reverse_bit
+
+Top level modules:
+	reverse_bit
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/top.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/reverse_bit_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/reverse_bit_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reverse_bit_tb
+
+Top level modules:
+	reverse_bit_tb
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/top_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/top_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/barrel_shifter.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/barrel_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter
+
+Top level modules:
+	barrel_shifter
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/barrel_shifter_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/multifunction_barrel_shifter_reverse_bit/barrel_shifter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter_tb
+
+Top level modules:
+	barrel_shifter_tb
+
+} {} {}}

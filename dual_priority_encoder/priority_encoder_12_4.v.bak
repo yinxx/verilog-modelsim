@@ -1,0 +1,33 @@
+module priority_encoder_12_4
+	(
+		input wire [11:0] r,
+		output reg [3:0] y
+	);
+	
+	// Body
+	always @*
+		if (r[11])
+			y = 4'b1100;
+		else if (r[10])
+			y = 4'b1011;
+		else if (r[9])
+			y = 4'b1010;
+		else if (r[8])
+			y = 4'b1001;
+		else if (r[7])
+			y = 4'b1000;
+		else if (r[6])
+			y = 4'b0111;
+		else if (r[5])
+			y = 4'b0101;
+		else if (r[4])
+			y = 4'b0100;
+		else if (r[3])
+			y = 4'b0011;
+		else if (r[2])
+			y = 4'b0010;
+		else if (r[1])
+			y = 4'b0001;
+		else
+			y = 4'b0000;
+endmodule
