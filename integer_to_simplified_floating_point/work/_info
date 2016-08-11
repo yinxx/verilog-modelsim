@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Electronics Engineering/Verilog/ModelSim/integer_to_simplified_floating_point
+vint_to_fp
+Z0 !s110 1469499294
+!i10b 1
+!s100 <zYODZzKd=WlB[W_U1@Bd2
+IB=`Q;d[V2mKS7f@jh9oIK3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point
+w1469159062
+8D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v
+FD:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1469499294.000000
+!s107 D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vint_to_fp_tb
+R0
+!i10b 1
+!s100 oRYK]B`P^4A=5c3BdMmTV1
+IFk5C4CejRE9=Lik5mDFX30
+R1
+R2
+w1469157377
+8D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v
+FD:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v|
+!s101 -O0
+!i113 1
+R5

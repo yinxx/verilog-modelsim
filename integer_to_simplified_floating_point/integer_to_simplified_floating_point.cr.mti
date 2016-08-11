@@ -1,0 +1,15 @@
+{D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module int_to_fp_tb
+
+Top level modules:
+	int_to_fp_tb
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/combinational/integer_to_simplified_floating_point/int_to_fp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module int_to_fp
+
+Top level modules:
+	int_to_fp
+
+} {} {}}

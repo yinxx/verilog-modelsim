@@ -1,0 +1,15 @@
+{D:/Electronics Engineering/Verilog/ModelSim/combinational/simplified_floating_point_greater_than/simplified_fp_greater_than_tb.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/combinational/simplified_floating_point_greater_than/simplified_fp_greater_than_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module simplified_fp_greater_than_tb
+
+Top level modules:
+	simplified_fp_greater_than_tb
+
+} {} {}} {D:/Electronics Engineering/Verilog/ModelSim/combinational/simplified_floating_point_greater_than/simplified_fp_greater_than.v} {1 {vlog -work work -stats=none {D:/Electronics Engineering/Verilog/ModelSim/combinational/simplified_floating_point_greater_than/simplified_fp_greater_than.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module simplified_fp_greater_than
+
+Top level modules:
+	simplified_fp_greater_than
+
+} {} {}}
